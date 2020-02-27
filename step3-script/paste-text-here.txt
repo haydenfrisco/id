@@ -1,13 +1,14 @@
 This will be my tagline:
+Design. Innovate. Create.
+This will be my introductory text, a paragraph(s) totaling at least 150 words that welcome user, state the goal of the portfolio website, and describe my ambitions and something positive I feel about working in web:
+Where creative and practical design become one, seamlessly. My portfolio is constructed of my practical solutions to modern problems. Backed in research and solutions, I aim to show you that I am a valuable asset to your team. If there is a problem, I can solve it. I love to learn new things, and I am excited to learn new skills and truly master web development. I can be an asset to your team because I am always on time, I always give 100%, and I can always take constructive critisism. Web design and development is my passion. I am hoping to find the perfect fit of a company where we can all learn and grow together. Take a look through my website, and if you have any questions please contact me.
 
-This will be my introductory text, a paragraph(s) totalling at least 150 words that welcome user, state the goal of the portfolio website, and describe my ambitions and something positive I feel about working in web:
-
-Here is a piece description for one piece that my portfolio will show, following the format outlined on Blackboard: 
-Title & Type of Site:
-Talent Showcased: 
-Objective: 
-Target Audience: 
-Highlights: 
-1)
-2)
-3)
+Here is a piece description for one piece that my portfolio will show, following the format outlined on Blackboard:
+Title & Type of Site: Vack Attack Vacuum Cleaners
+Talent Showcased: Back end web development and sleek design.
+Objective: A fictional site to guide the consumer to buy a vacuum.
+Target Audience: 25-50 Year Olds.
+Highlights:
+1) Use of PHP showcases development skills.
+2) Use of the color blue makes the website feel calm and welcoming.
+3) Sleek Design showcases the professional environment of the company.
