@@ -1,1 +1,10 @@
 Paste all the body copy from your style comps here:
+Title & Type of Site: Vacuum Cleaner E-Commerce Site
+Talent Showcased: Back end web development and design.
+Objective:  To guide the consumer to buy a vacuum.
+Target Audience: Adults
+Highlights:
+1) PHP pulls data from a custom database.
+2) Color psychology was used to invoke a feeling of professionalism and usability.
+3) MySQL content management system allows user’s to log in and update database. Feel free to log
+    in using “boss” for the username and password to test it.
